@@ -5,59 +5,59 @@ var setMenu = JSON.parse(`{
 		"id":"1",
 		"name":"Schweinsbraten",
 		"image":"./img/schweinsbraten.jpg",
-		"info":"viel Schwein wenig Salad",
+		"info":"viel Schwein wenig Salat",
 		"price":"8"
 		
 	},	{
 		"id":"2",
-		"name":"Schweinsbraten",
-		"image":"./img/schweinsbraten.jpg",
-		"info":"viel Schwein wenig Salad",
+		"name":"Burger",
+		"image":"./img/Burger.jpg",
+		"info":"viel Schwein etwas Salat",
 		"price":"8"
 		
 	},	{
 		"id":"3",
-		"name":"Schweinsbraten",
-		"image":"./img/schweinsbraten.jpg",
-		"info":"viel Schwein wenig Salad",
-		"price":"8"
+		"name":"chicken_salad",
+		"image":"./img/chicken_salad.jpg",
+		"info":"what the fuck is the salad doing there",
+		"price":"18"
 		
 	},	{
 		"id":"4",
-		"name":"Schweinsbraten",
-		"image":"./img/schweinsbraten.jpg",
-		"info":"viel Schwein wenig Salad",
+		"name":"Chili con Carne",
+		"image":"./img/chiliconcarne.jpg",
+		"info":"viel Schwein aus Mexiko",
 		"price":"8"
 		
 	},	{
 		"id":"5",
-		"name":"Schweinsbraten",
-		"image":"./img/schweinsbraten.jpg",
-		"info":"viel Schwein wenig Salad",
-		"price":"8"
+		"name":"Happy Meal",
+		"image":"./img/happymeal.jpeg",
+		"info":"viel von keine Ahnung was drin ist und eine Conan Actionfigure",
+		"price":"2"
 		
 	},	{
 		"id":"6",
-		"name":"Schweinsbraten",
-		"image":"./img/schweinsbraten.jpg",
+		"name":"Lasagne",
+		"image":"./img/lasagne.jpg",
 		"info":"viel Schwein wenig Salad",
 		"price":"8"
 		
 	},	{
 		"id":"7",
-		"name":"Schweinsbraten",
-		"image":"./img/schweinsbraten.jpg",
-		"info":"viel Schwein wenig Salad",
+		"name":"Pizza",
+		"image":"./img/pizza.jpg",
+		"info":"viel Zeug auf rundem Teig",
 		"price":"8"
 		
 	},	{
 		"id":"8",
-		"name":"Schweinsbraten",
-		"image":"./img/schweinsbraten.jpg",
-		"info":"viel Schwein wenig Salad",
+		"name":"Spagetti",
+		"image":"./img/spagetti-bolognese.jpg",
+		"info":"viel Schwein geschichtet zwischen Nudelteig",
 		"price":"8"
 		
-	},
+	}
 
 
 ]
