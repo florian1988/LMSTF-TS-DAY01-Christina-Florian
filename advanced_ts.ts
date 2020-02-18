@@ -14,10 +14,37 @@ for (let i of setMenu.menu) {
                     <p class="card-text">
                       ${i.price}
                     </p>
+				<div>
+				<input class="inputone" type="text">
+				<button class="buttonone" type="submit">button</button>
+				<p id="pleaseWork"></p>
+				</div>
+
                 </div>
 			</div>
 `;
 
 };
 document.getElementById("workplease").innerHTML = eat;
+
+var bt = document.getElementsByClassName("buttonone");
+
+// console.log(bt);
+
+for(let i = 0; i < bt.length; i++){
+	
+	bt[i].addEventListener("click",setting)
+}
+
+
+function setting() {		
+ 
+	let input = document.getElementsByClassName("inputone");	
+	console.log(input.value);
+	// var sort = input[y];
+	document.getElementById("pleaseWork").innerHTML = input;
+	
+	}
+
+
 
